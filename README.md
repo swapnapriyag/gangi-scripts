@@ -1,0 +1,2 @@
+# gangi-scripts
+only scripts
